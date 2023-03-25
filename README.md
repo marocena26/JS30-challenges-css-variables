@@ -14,13 +14,13 @@ The aim of this project is to **learn how to modify CSS variables from Javascrip
 
 ## 👾 Description 
 
-**Welcome to Clock!**
+**Welcome to Playing with CSS Variables and JS!**
 
 In this repository we present you a **simple and intuitive website (desktop version)**. **Designed and developed with HTML, CSS and JS**, you will find a very simple interface where:
 
-- You will be able to modify the size of the image by changing the padding.
-- You will be able to modify the value of the blur effect.
-- You will be able to modify the background colour of the page.
+- You will be able to **modify the size of the image** by changing the padding.
+- You will be able to **modify the value of the blur** effect.
+- You will be able to **modify the background colour** of the page.
 
 ## 📝 Requirements
 
@@ -51,6 +51,7 @@ The following tools have been used when solving the project:
 - setProperty()
 - mousemove event
 - change event
+- blur effect.
 
 ## 💾 Steps to follow to use this project on your computer:
 
