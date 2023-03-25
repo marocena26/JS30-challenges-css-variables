@@ -14,46 +14,52 @@
     <title>JS30 Playing with CSS Variables and JS</title>
   </head>
   <body class="body">
-    <header>
+    <header class="header">
       <h1 class="title">
         Update CSS Variables with <span class="title-color">JS</span>
       </h1>
     </header>
-    <main>
+    <main class="main">
       <form class="controls">
-        <label for="spacing">Size:</label>
-        <input
-          type="range"
-          name="spacing"
-          id="spacing"
-          min="10"
-          max="200"
-          value="10"
-          data-sizing="px"
-          class="input"
-        />
+        <div>
+          <label for="spacing">Size:</label>
+          <input
+            type="range"
+            name="spacing"
+            id="spacing"
+            min="10"
+            max="200"
+            value="10"
+            data-sizing="px"
+            class="input"
+          />
+        </div>
 
-        <label for="blur">Blur:</label>
-        <input
-          type="range"
-          name="blur"
-          id="blur"
-          min="0"
-          max="25"
-          value="10"
-          data-sizing="px"
-          class="input"
-        />
+        <div>
+          <label for="blur">Blur:</label>
+          <input
+            type="range"
+            name="blur"
+            id="blur"
+            min="0"
+            max="25"
+            value="10"
+            data-sizing="px"
+            class="input"
+          />
+        </div>
 
-        <label for="color">Color:</label>
-        <input
-          type="color"
-          name="color"
-          id="color"
-          value="#ffffff"
-          class="input"
-        />
-      </form>
+        <div>
+            <label for="color">Color:</label>
+            <input
+              type="color"
+              name="color"
+              id="color"
+              value="#ffffff"
+              class="input"
+            />
+                  </form>
+        </div>
       <section class="img">
         <img src="./img/photo.jpg" alt="photo" class="img-photo" />
       </section>
