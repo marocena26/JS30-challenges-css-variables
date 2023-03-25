@@ -1,4 +1,4 @@
-# Project 02 - Playing with CSS Variables and JS 🎨
+# Project 03 - Playing with CSS Variables and JS 🎨
 
 ## 👩🏻‍💻 Author 
 
