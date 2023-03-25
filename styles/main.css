@@ -8,7 +8,7 @@
   --tittle-color: black;
   --base: #ffc600;
   --spacing: 10px;
-  --blur: 10px;
+  --blur: 0;
   font-family: "Poppins", sans-serif;
 }
 
