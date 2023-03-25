@@ -10,7 +10,7 @@ In this repository you can find the files generated in the **30 Day Vanilla JS C
 
 The aim of this project is to **learn how to modify CSS variables from Javascript** according to the **input values** introduced by the user.
 
-> **NOTE:** Direct link to the project by clicking on the following **[link](https://marocena26.github.io/JS30-challenges-clock/)**.
+> **NOTE:** Direct link to the project by clicking on the following **[link](https://marocena26.github.io/JS30-challenges-css-variables/)**.
 
 ## 👾 Description 
 
